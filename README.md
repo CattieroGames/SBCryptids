@@ -1,1 +1,1 @@
-# SBCryptids
+# SB Cryptids Wiki
