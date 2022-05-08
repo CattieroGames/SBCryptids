@@ -1,7 +1,7 @@
 # SB Cryptids
   
 ## Skrolos
-![Evil](https://github.com/cattierogames/sbcryptids/blob/main/cryptidimg/0%20-%20the%20original.png)
+![Evil](https://github.com/CattieroGames/SBCryptids/blob/main/CryptidImg/0%20-%20The%20Original.png)
     
 **Skrolos** are the first cryptids and the creators of every single other cryptid. They appear to have some sort of "leader", although the only currently known thing about him is that he goes by **"Lord Skrolo"**. They are widely considered to be the most evil cryptids among the Cryptology Community, although some of their creations have rebelled against their malevolent ways, most famously **The Goongalar**.  
   
